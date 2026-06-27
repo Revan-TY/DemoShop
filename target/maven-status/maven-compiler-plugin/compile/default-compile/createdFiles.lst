@@ -1,0 +1,15 @@
+com\qa\demoshop\pagelayers\HomePage.class
+com\qa\demoshop\utilities\WaitUtility.class
+com\qa\demoshop\pagelayers\RegisterPage.class
+com\qa\demoshop\utilities\ReadExcelUtility.class
+com\qa\demoshop\utilities\ScreenshotUtility.class
+com\qa\demoshop\pagelayers\BrowserInitialization.class
+com\qa\demoshop\utilities\PropertyUtility.class
+com\qa\demoshop\utilities\FakeDataGenerator.class
+com\qa\demoshop\utilities\MouseActionsUtility.class
+com\qa\demoshop\pagelayers\ShoppingCartPage.class
+com\qa\demoshop\pagelayers\ThankyouPage.class
+com\qa\demoshop\applicationconstants\DataHandlingConstants.class
+com\qa\demoshop\pagelayers\CheckoutPage.class
+com\qa\demoshop\utilities\DropDownUtility.class
+com\qa\demoshop\pagelayers\BooksPage.class

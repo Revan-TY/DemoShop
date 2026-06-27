@@ -1,0 +1,10 @@
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\base\BasePage.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\browserfactory\BrowserSettings.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\browserfactory\DriverFactory.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\dataproviders\RegisterDataProvider.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\listeners\AllureListener.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\listeners\ListnerClass.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\listeners\RetryAnalyzer.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\listeners\Transformer.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\tests\CheckoutTest.java
+C:\Users\Admin\eclipse-workspace\DemoShop\src\test\java\com\qa\demoshop\tests\RegisterTest.java

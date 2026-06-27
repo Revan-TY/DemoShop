@@ -1,0 +1,10 @@
+com\qa\demoshop\listeners\AllureListener.class
+com\qa\demoshop\tests\RegisterTest.class
+com\qa\demoshop\listeners\Transformer.class
+com\qa\demoshop\browserfactory\BrowserSettings.class
+com\qa\demoshop\dataproviders\RegisterDataProvider.class
+com\qa\demoshop\tests\CheckoutTest.class
+com\qa\demoshop\listeners\ListnerClass.class
+com\qa\demoshop\base\BasePage.class
+com\qa\demoshop\browserfactory\DriverFactory.class
+com\qa\demoshop\listeners\RetryAnalyzer.class
