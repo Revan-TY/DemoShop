@@ -3,14 +3,14 @@ pipeline {
 
     tools {
         jdk 'JDK25'
-        maven 'Maven3'
-    }
+	        maven 'Maven3'
+	    }
 
     stages {
 
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/your-repository/sample-maven-project.git'
+                git url: 'https://github.com/Revan-TY/DemoShop.git'
             }
         }
 
@@ -26,14 +26,6 @@ pipeline {
             steps {
                 withMaven {
                     sh 'mvn test'
-                }
-            }
-        }
-
-        stage('Package') {
-            steps {
-                withMaven {
-                    sh 'mvn package'
                 }
             }
         }
